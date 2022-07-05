@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo&family=Josefin+Sans&display=swap");
+
+
+  * {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+body {
+    font-family: "Josefin Sans" sans-serif ;
+    background-color: rgb(220, 185, 134);
+    font-weight: 400;
+}
+
+/* logo and header */
+
+#menu {
+    
+}
